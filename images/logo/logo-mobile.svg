@@ -50,17 +50,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1460"
-     inkscape:window-height="1332"
+     inkscape:window-width="2607"
+     inkscape:window-height="1468"
      id="namedview1161"
      showgrid="false"
-     inkscape:zoom="13.574074"
-     inkscape:cx="28.153372"
+     inkscape:zoom="6.787037"
+     inkscape:cx="102.82548"
      inkscape:cy="27"
-     inkscape:window-x="2380"
-     inkscape:window-y="796"
+     inkscape:window-x="546"
+     inkscape:window-y="369"
      inkscape:window-maximized="0"
-     inkscape:current-layer="logo-mobile" />
+     inkscape:current-layer="svg1159"
+     inkscape:document-rotation="0" />
   <title
      id="title1152">logo-mobile</title>
   <g
@@ -74,11 +75,13 @@
       <text
          xml:space="preserve"
          id="text261"
-         style="font-weight:bold;font-size:42.6667px;line-height:125%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect263);fill:#e5175b;fill-opacity:1;stroke:#e5175b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-weight:bold;font-size:42.6667px;line-height:125%;font-family:Verdana;-inkscape-font-specification:'Verdana Bold';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect263);fill:#e5175b;fill-opacity:1;stroke:#e5175b;stroke-width:0.999916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
          transform="matrix(0.78197456,0,0,0.88324669,-1.2202647,3.8751207)"><tspan
            x="2.3378906"
            y="41.73081"><tspan
-             style="font-size:42.6667px;fill:#e5175b;fill-opacity:1;stroke:#e5175b;stroke-opacity:1">f2f</tspan></tspan></text>
+             style="font-size:42.6667px;fill:#e5175b;fill-opacity:1;stroke:#e5175b;stroke-width:0.999916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">f</tspan><tspan
+             style="fill:#13477d;fill-opacity:1;stroke:#13477d;stroke-width:0.999916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">2</tspan><tspan
+             style="font-size:42.6667px;fill:#e5175b;fill-opacity:1;stroke:#e5175b;stroke-width:0.999916;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">f</tspan></tspan></text>
     </g>
   </g>
 </svg>
